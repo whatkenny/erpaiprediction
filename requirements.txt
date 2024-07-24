@@ -1,0 +1,7 @@
+pandas
+pymysql
+pyodbc
+tensorflow
+scikit-learn
+streamlit
+matplotlib
